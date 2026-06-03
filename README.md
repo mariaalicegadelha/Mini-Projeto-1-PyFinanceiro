@@ -26,7 +26,9 @@ Feb-2010,984655
 
 ## 📊 Funcionalidades
 Leitura de dados financeiros em formato CSV.
+
 Cálculo de receitas e despesas.
+
 Análise do saldo financeiro com geração de um arquivo .txt.
 
 ## 👩‍💻 Autor
